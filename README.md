@@ -1,5 +1,6 @@
 # Student info
 Team name: everyone above this is a tryhard
+
 Students: Tim Bunnage, Iver Bronstaad
 
 # Bagel
