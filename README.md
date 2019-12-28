@@ -6,6 +6,8 @@ Students: Tim Bunnage, Iver Bronstaad
 # Bagel
 The running code written for the ANM competition is in competition.py.
 
+The test.csv and train.csv files need to be added to the directory after downloading.
+
 The implementation of 'Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder'
 Models are in `model.py`.
 
