@@ -1,4 +1,10 @@
+# Student info
+Team name: everyone above this is a tryhard
+Students: Tim Bunnage, Iver Bronstaad
+
 # Bagel
+The running code written for the ANM competition is in competition.py.
+
 The implementation of 'Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder'
 Models are in `model.py`.
 
@@ -8,12 +14,16 @@ python >= 3.7
 ``` bash
 pip install -r requirements.txt
 ```
+Torch may need a manual install on Windows (ensure version is correct).
 
 
 # Run
+Ensure the train.csv and test.csv paths are correct in competition.py.
 ``` bash
-python main.py
+python competition.py
 ```
+
+
 
 # Citation
 Li, Zeyan, Wenxiao Chen, and Dan Pei. "Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder." 2018 IEEE 37th International Performance Computing and Communications Conference (IPCCC). IEEE, 2018.
